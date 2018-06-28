@@ -10,8 +10,20 @@
       },
       {
         "name": "user"
+      },
+      {
+        "name": "hacker"
+      },
+      {
+        "name": "defender"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "MainFlow",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
